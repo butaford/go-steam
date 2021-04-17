@@ -9,7 +9,7 @@
 ## Installation
 
 ```
-go get github.com/kidoman/go-steam
+go get github.com/butaford/go-steam
 ```
 
 ## License
